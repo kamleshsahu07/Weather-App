@@ -1,6 +1,7 @@
 {
   "engines":{
-    "node":"v22.16.0."
+    "node":"20.x",
+    "npm":"10.x"
   },
 
   "name": "mini-project",
